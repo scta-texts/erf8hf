@@ -60,7 +60,7 @@
           <!--195.xml-->
           <pb ed="#W" n="97-v"/>
           <lb ed="#W" n="1"/>caritatem uocant. Efficit enim cognitio mi 
-          <lb ed="#W" n="2"/>misericordiae diuinae, ut redametur deus,
+          <lb ed="#W" n="2" break="no"/>sericordiae diuinae, ut redametur deus,
           efficit<lb ed="#W" n="3" break="no"/>cit, sut nos sponte omnibus creaturis
           subi<lb ed="#W" n="4" break="no"/>ciamus, qui proximi amor est.
         </p>
