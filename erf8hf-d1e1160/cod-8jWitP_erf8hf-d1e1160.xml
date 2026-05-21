@@ -440,7 +440,7 @@
         <p xml:id="erf8hf-d1e1160-d1e926">
           <lb ed="#W" n="22"/>
           <pc type="indent"/>Lex doctrina est, quae facienda, &amp; omit.  
-          <lb ed="#W" n="23"/>omittenda praescribit. 
+          <lb ed="#W" n="23" break="no"/>tenda praescribit. 
         </p>
         <p xml:id="erf8hf-d1e1160-d1e936">
           <lb ed="#W" n="24"/>
